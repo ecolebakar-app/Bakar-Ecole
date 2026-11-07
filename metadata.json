@@ -1,0 +1,6 @@
+{
+  "name": "Ecole Bekar - نظام إدارة المدرسة والمعهد",
+  "description": "منصة ويب متكاملة لإدارة المدرسة الخاصة ومعهد التربية الحديثة للعلوم الإسلامية - إيكول بكار (Ecole Bekar)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
